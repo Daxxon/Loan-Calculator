@@ -38,6 +38,3 @@ public class LoanCalc{
 
   }
 }
-
-
-this is a test
